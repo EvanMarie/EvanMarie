@@ -8,8 +8,8 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 With over two decades of industry experience, I specialize in crafting responsive, dynamic, and user-centric applications. I’m passionate about AI-driven innovation and dedicated to bringing unique designs and powerful functionalities to life.
 
 ![Profile Badge](https://img.shields.io/badge/Location-Atlanta%20Metropolitan%20Area-blueviolet?style=flat-square&logo=google-maps)
-![GitHub Followers](https://img.shields.io/github/followers/EvanMarie?label=Followers&style=flat-square&color=cyan)
-![GitHub Stars](https://img.shields.io/github/stars/EvanMarie?label=Stars&style=flat-square&color=lightviolet)
+
+[![Evan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EvanMarie&bg_color=1a1b27&color=cyan&line=lightviolet&point=indigo&area=true&hide_border=true)](https://github.com/EvanMarie)
 
 ---
 
@@ -21,6 +21,11 @@ With over two decades of industry experience, I specialize in crafting responsiv
 - **Styling**: Tailwind UI, Framer Motion, Adobe Creative Suite, Figma, Adobe XD
 - **E-commerce**: Shopify
 
+### 🛠 Tools & Technologies
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
 #### ⚙️ **Backend & DevOps**
 - **Languages**: Python, SQL
 - **Frameworks**: Flask, Django
@@ -30,6 +35,7 @@ With over two decades of industry experience, I specialize in crafting responsiv
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau
 - **Machine Learning**: TensorFlow, PyTorch, ChatGPT, Anthropic's Claude
 - **Specialties**: Time series forecasting, NLP, sentiment analysis, generative AI
+
 
 ---
 
