@@ -42,13 +42,6 @@ With over two decades of industry experience, I specialize in crafting responsiv
 
 ---
 
-### 📈 **GitHub Stats**
-![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanMarie&show_icons=true&theme=radical&count_private=true)
-
-### 💻 **Languages Used**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanMarie&layout=compact&theme=radical&hide=css)
-
----
 
 ### 🌐 **Connect with Me**
 - 🌐 Website: [DarkViolet.ai](https://darkviolet.ai)
