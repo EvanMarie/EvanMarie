@@ -2,6 +2,14 @@
 Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integration | UI/UX Designer | Front-End Developer | Data Scientist
 
 
+
+<div align="center">
+  <a href="http://darkviolet.ai">
+    <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/landing/darkvioletlogo.webp" alt="Dark Violet" width="60%" />
+  </a>
+</div>
+
+
 ---
 
 💫 **Experienced in Creating Intuitive, Engaging Digital Experiences**
@@ -9,6 +17,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 With over two decades of industry experience, I specialize in crafting responsive, dynamic, and user-centric applications. I’m passionate about AI-driven innovation and dedicated to bringing unique designs and powerful functionalities to life.
 
 ![Profile Badge](https://img.shields.io/badge/Location-Atlanta%20Metropolitan%20Area-blueviolet?style=flat-square&logo=google-maps)
+
 
 ![Wave](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNhejU3bmJnb29mcGlpYnFzczVmeWRjd2owM3htMWlxbWZ0b3U1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif)
 
