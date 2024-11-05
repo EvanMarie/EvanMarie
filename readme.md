@@ -1,4 +1,4 @@
-# Evan Marie Carr 🌌 (She/Her)
+# Evan Marie Carr 
 Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integration | UI/UX Designer | Front-End Developer | Data Scientist
 
 
@@ -10,7 +10,9 @@ With over two decades of industry experience, I specialize in crafting responsiv
 
 ![Profile Badge](https://img.shields.io/badge/Location-Atlanta%20Metropolitan%20Area-blueviolet?style=flat-square&logo=google-maps)
 
-[![Evan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EvanMarie&bg_color=1a1b27&color=cyan&line=lightviolet&point=indigo&area=true&hide_border=true)](https://github.com/EvanMarie)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Evan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=EvanMarie&theme=react-dark)
 
 
 ### 🌐 **Connect with Me**
@@ -65,3 +67,7 @@ Let’s connect and build something extraordinary together!
 - 🌱 Lifelong learner: I’m diving into generative AI and UX research!
 - 💜 Favorite color combo: Cyan, Light Violet, and Indigo 🌌
 - 🌎 I speak basic German, French, and Italian; trying to learn Russian and Mandarin!
+
+
+
+
