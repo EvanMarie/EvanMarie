@@ -1,6 +1,7 @@
 # Evan Marie Carr 🌌 (She/Her)
 Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integration | UI/UX Designer | Front-End Developer | Data Scientist
 
+
 ---
 
 💫 **Experienced in Creating Intuitive, Engaging Digital Experiences**
@@ -11,7 +12,23 @@ With over two decades of industry experience, I specialize in crafting responsiv
 
 [![Evan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EvanMarie&bg_color=1a1b27&color=cyan&line=lightviolet&point=indigo&area=true&hide_border=true)](https://github.com/EvanMarie)
 
+
+### 🌐 **Connect with Me**
+- 🌐 Website: [DarkViolet.ai](https://darkviolet.ai)
+- 💼 [LinkedIn](https://linkedin.com/in/EvanMarie)
+- 💻 [GitHub](https://github.com/EvanMarie)
+
+Let’s connect and build something extraordinary together!
+
 ---
+
+### 🛠 Tools & Technologies
+![Remix](https://img.shields.io/badge/Remix-000?style=flat-square&logo=remix&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
 
 ### 🔥 **Skills & Technologies**
 
@@ -20,11 +37,6 @@ With over two decades of industry experience, I specialize in crafting responsiv
 - **Libraries/Frameworks**: React, Remix, Angular, Svelte, Vue
 - **Styling**: Tailwind UI, Framer Motion, Adobe Creative Suite, Figma, Adobe XD
 - **E-commerce**: Shopify
-
-### 🛠 Tools & Technologies
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 #### ⚙️ **Backend & DevOps**
 - **Languages**: Python, SQL
@@ -48,10 +60,8 @@ With over two decades of industry experience, I specialize in crafting responsiv
 
 ---
 
-
-### 🌐 **Connect with Me**
-- 🌐 Website: [DarkViolet.ai](https://darkviolet.ai)
-- 💼 [LinkedIn](https://linkedin.com/in/EvanMarie)
-- 💻 [GitHub](https://github.com/EvanMarie)
-
-Let’s connect and build something extraordinary together!
+### 🎉 Fun Facts
+- 🔭 I’m currently working on a secret AI project 👀
+- 🌱 Lifelong learner: I’m diving into generative AI and UX research!
+- 💜 Favorite color combo: Cyan, Light Violet, and Indigo 🌌
+- 🌎 I speak basic German, French, and Italian; trying to learn Russian and Mandarin!
