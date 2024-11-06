@@ -10,6 +10,8 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
   </a>
 </div>
 
+<br/>
+
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
 
   <!-- GitHub Streak -->
@@ -19,6 +21,8 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
     <img src="https://streak-stats.demolab.com?user=EvanMarie&theme=radical&hide_border=true" alt="GitHub Streak">
   </a>
 </div>
+
+<br/>
 
   <!-- GitHub Trophy -->
    <div style="display: inline-block; margin: 10px;">
@@ -50,6 +54,8 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 </a>
   </div>
 
+<br/>
+
 <!-- Portfolio Item 2 -->
   <div style="display: inline-block; margin: 10px;">
 <a href="https://homeschool.darkviolet.ai" target="_blank">
@@ -57,6 +63,8 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
   <div style="font-size: 1.1em; color: cyan;">Light Path Learning</div>
 </a>
   </div>
+
+<br/>
 
 <!-- Portfolio Item 3 -->
   <div style="display: inline-block; margin: 10px;">
@@ -66,6 +74,8 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 </a>
   </div>
 
+<br/>
+
 <!-- Portfolio Item 4 -->
   <div style="display: inline-block; margin: 10px;">
 <a href="https://divination.darkviolet.ai" target="_blank">
@@ -74,6 +84,8 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 </a>
   </div>
 
+<br/>
+
 <!-- Portfolio Item 5 -->
   <div style="display: inline-block; margin: 10px;">
 <a href="https://www.iheartcomponents.com" target="_blank">
@@ -81,6 +93,8 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
   <div style="font-size: 1.1em; color: cyan;">I 💜 Components</div>
 </a>
   </div>
+
+<br/>
 
 <!-- Portfolio Item 6 -->
   <div style="display: inline-block; margin: 10px;">
