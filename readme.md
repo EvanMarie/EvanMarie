@@ -36,7 +36,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <!-- Portfolio Item 1 -->
-  <div style="width: 30%; min-width: 150px; text-align: center;">
+  <div style="width: 30%; min-width: 150px; text-align: center; margin: 2vh;">
     <a href="https://darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
       <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/darkvioletfrontpage.webp" alt="Dark Violet Frontpage" style="width: 100%; border-radius: 8px;">
       <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">DarkViolet.ai</div>
@@ -44,7 +44,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
   </div>
 
   <!-- Portfolio Item 2 -->
-  <div style="width: 30%; min-width: 150px; text-align: center;">
+ <div style="width: 30%; min-width: 150px; text-align: center; margin: 2vh;">
     <a href="https://homeschool.darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
       <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/lightpathlearningdarkviolet.webp?t=2024-11-06T00%3A27%3A32.071Z" alt="Lightpath Learning" style="width: 100%; border-radius: 8px;">
        <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">Light Path Learning</div>
@@ -52,7 +52,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
   </div>
 
   <!-- Portfolio Item 3 -->
-  <div style="width: 30%; min-width: 150px; text-align: center;">
+ <div style="width: 30%; min-width: 150px; text-align: center; margin: 2vh;">
     <a href="https://chatter.darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
       <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/chatterdarkviolet.webp?t=2024-11-06T00%3A28%3A02.397Z" alt="Chatter" style="width: 100%; border-radius: 8px;">
        <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">Chatter Role Play</div>
@@ -60,7 +60,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
   </div>
 
   <!-- Portfolio Item 4 -->
-  <div style="width: 30%; min-width: 150px; text-align: center;">
+ <div style="width: 30%; min-width: 150px; text-align: center; margin: 2vh;">
     <a href="https://divination.darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
       <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/divinationdarkviolet.webp?t=2024-11-06T00%3A28%3A30.438Z" alt="Divination" style="width: 100%; border-radius: 8px;">
          <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">Dreams & Divinations</div>
@@ -68,7 +68,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
   </div>
 
   <!-- Portfolio Item 5 -->
-  <div style="width: 30%; min-width: 150px; text-align: center;">
+ <div style="width: 30%; min-width: 150px; text-align: center; margin: 2vh;">
     <a href="https://www.iheartcomponents.com" target="_blank" style="text-decoration: none; color: #000;">
       <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/iheartcomponents.webp?t=2024-11-06T00%3A28%3A54.068Z" alt="I Heart Components" style="width: 100%; border-radius: 8px;">
          <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">I 💜 Components</div>
@@ -76,7 +76,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
   </div>
 
   <!-- Portfolio Item 6 -->
-  <div style="width: 30%; min-width: 150px; text-align: center;">
+ <div style="width: 30%; min-width: 150px; text-align: center; margin: 2vh;">
     <a href="https://remix-template.darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
       <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/remixtemplatedarkviolet.webp?t=2024-11-06T00%3A29%3A23.934Z" alt="Remix Template" style="width: 100%; border-radius: 8px;">
       <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">Remix Template</div>
