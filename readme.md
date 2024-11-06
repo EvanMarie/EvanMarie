@@ -26,19 +26,17 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 
 ---
 
-<div align="center" style="font-size: 3vh;" >
 
-✨ **Featured Projects**  ✨
-
-</div>
 
 
 
 <div align="center">
-✨ **Featured Projects** ✨
+ 
+## ✨ **Featured Projects** ✨
+
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px;">
 
 <!-- Portfolio Item 1 -->
 <a href="https://darkviolet.ai" target="_blank">
