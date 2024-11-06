@@ -1,4 +1,4 @@
-# Evan Marie Carr 🌌 (She/Her)
+# Evan Marie Carr
 Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integration | UI/UX Designer | Front-End Developer | Data Scientist
 
 
