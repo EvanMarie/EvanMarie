@@ -5,9 +5,78 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 
 <div align="center">
   <a href="http://darkviolet.ai">
-    <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/landing/darkvioletlogo.webp" alt="Dark Violet" width="60%" />
+    <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/landing/darkvioletlogo.webp" alt="Dark Violet" width="50%" />
   </a>
 </div>
+
+### 🚀 Technologies & Tools
+
+#### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000?style=flat-square&logo=remix&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![CSS Grid](https://img.shields.io/badge/-CSS%20Grid-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS Flexbox](https://img.shields.io/badge/-CSS%20Flexbox-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### Backend & Full Stack
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+#### Mobile Development
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+#### Data Science & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0086A8?style=flat-square&logo=matplotlib&logoColor=white)
+
+#### Design & Prototyping
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Image Editing](https://img.shields.io/badge/-Image%20Editing-0A66C2?style=flat-square&logo=image-editing&logoColor=white)
+![Wireframing](https://img.shields.io/badge/-Wireframing-ff9f00?style=flat-square&logo=wireframe&logoColor=white)
+![Prototyping](https://img.shields.io/badge/-Prototyping-0A66C2?style=flat-square&logo=prototype&logoColor=white)
+
+#### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+#### Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 🌟 Additional Skills
+![Problem Solving](https://img.shields.io/badge/-Problem_Solving-DAF7A6?style=flat-square&logo=problem-solving&logoColor=black)
+![Time Management](https://img.shields.io/badge/-Time_Management-C70039?style=flat-square&logo=time-management&logoColor=white)
+![Leadership](https://img.shields.io/badge/-Leadership-FF5733?style=flat-square&logo=leadership&logoColor=white)
+![Teamwork](https://img.shields.io/badge/-Teamwork-581845?style=flat-square&logo=teamwork&logoColor=white)
+![Communication](https://img.shields.io/badge/-Communication-FFC300?style=flat-square&logo=communication&logoColor=black)
+![Attention to Detail](https://img.shields.io/badge/-Attention_to_Detail-1f77b4?style=flat-square&logo=attention-to-detail&logoColor=white)
+
 
 
 ---
@@ -23,27 +92,29 @@ With over two decades of industry experience, I specialize in crafting responsiv
 
 
 ### 🌐 **Connect with Me**
-- 🌐 Website: [DarkViolet.ai](https://darkviolet.ai)
-- 💼 [LinkedIn](https://linkedin.com/in/EvanMarie)
-- 💻 [GitHub](https://github.com/EvanMarie)
+
+<div>
+  <ul style="list-style: none;">
+    <li>🌐 Website: <a href="https://darkviolet.ai">DarkViolet.ai</a></li>
+    <li>💼 <a href="https://linkedin.com/in/EvanMarie">LinkedIn</a></li>
+    <li>💻 <a href="https://github.com/EvanMarie">GitHub</a></li>
+    <li>📝 <a href="https://dev.to/evanmarie">Dev.to</a></li>
+    <li>🐘 <a href="https://sigmoid.social/@EvanMarie">Mastodon</a></li>
+    <li>📧 <a href="mailto:youremail@example.com">Email</a></li>
+  </ul>
+</div>
+
 
 Let’s connect and build something extraordinary together!
 
 ---
-
-### 🛠 Tools & Technologies
-![Remix](https://img.shields.io/badge/Remix-000?style=flat-square&logo=remix&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 
 ### 🔥 **Skills & Technologies**
 
 #### 🎨 **Frontend & Design**
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Libraries/Frameworks**: React, Remix, Angular, Svelte, Vue
+- **Libraries/Frameworks**: React, Remix, Angular, Svelte, Vue, React Native
 - **Styling**: Tailwind UI, Framer Motion, Adobe Creative Suite, Figma, Adobe XD
 - **E-commerce**: Shopify
 
@@ -53,7 +124,7 @@ Let’s connect and build something extraordinary together!
 - **Platforms**: AWS, GCP, CI/CD Pipelines
 
 #### 🤖 **AI/ML & Data Science**
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau
+- **Data Science**: Jupyter, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau
 - **Machine Learning**: TensorFlow, PyTorch, ChatGPT, Anthropic's Claude
 - **Specialties**: Time series forecasting, NLP, sentiment analysis, generative AI
 
@@ -74,3 +145,5 @@ Let’s connect and build something extraordinary together!
 - 🌱 Lifelong learner: I’m diving into generative AI and UX research!
 - 💜 Favorite color combo: Cyan, Light Violet, and Indigo 🌌
 - 🌎 I speak basic German, French, and Italian; trying to learn Russian and Mandarin!
+
+
