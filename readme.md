@@ -2,12 +2,91 @@
 Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integration | UI/UX Designer | Front-End Developer | Data Scientist
 
 
-
-<div align="center">
+--- 
+ 
+<div align="center" style="margin: 2vh; border-radius: 8px;">
   <a href="http://darkviolet.ai">
     <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/landing/darkvioletlogo.webp" alt="Dark Violet" width="50%" />
   </a>
 </div>
+
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=EvanMarie&theme=radical&hide_border=true" alt="GitHub Streak">
+  </a>
+
+  <!-- GitHub Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=EvanMarie&theme=onedark&margin-w=15&column=3" alt="GitHub Trophy">
+  </a>
+
+</div>
+
+---
+
+<div align="center" style="font-size: 3vh;" >
+
+✨ **Featured Projects**  ✨
+
+</div>
+
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <!-- Portfolio Item 1 -->
+  <div style="width: 30%; min-width: 150px; text-align: center;">
+    <a href="https://darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
+      <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/darkvioletfrontpage.webp" alt="Dark Violet Frontpage" style="width: 100%; border-radius: 8px;">
+      <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">DarkViolet.ai</div>
+    </a>
+  </div>
+
+  <!-- Portfolio Item 2 -->
+  <div style="width: 30%; min-width: 150px; text-align: center;">
+    <a href="https://homeschool.darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
+      <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/lightpathlearningdarkviolet.webp?t=2024-11-06T00%3A27%3A32.071Z" alt="Lightpath Learning" style="width: 100%; border-radius: 8px;">
+       <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">Light Path Learning</div>
+    </a>
+  </div>
+
+  <!-- Portfolio Item 3 -->
+  <div style="width: 30%; min-width: 150px; text-align: center;">
+    <a href="https://chatter.darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
+      <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/chatterdarkviolet.webp?t=2024-11-06T00%3A28%3A02.397Z" alt="Chatter" style="width: 100%; border-radius: 8px;">
+       <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">Chatter Role Play</div>
+    </a>
+  </div>
+
+  <!-- Portfolio Item 4 -->
+  <div style="width: 30%; min-width: 150px; text-align: center;">
+    <a href="https://divination.darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
+      <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/divinationdarkviolet.webp?t=2024-11-06T00%3A28%3A30.438Z" alt="Divination" style="width: 100%; border-radius: 8px;">
+         <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">Dreams & Divinations</div>
+    </a>
+  </div>
+
+  <!-- Portfolio Item 5 -->
+  <div style="width: 30%; min-width: 150px; text-align: center;">
+    <a href="https://www.iheartcomponents.com" target="_blank" style="text-decoration: none; color: #000;">
+      <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/iheartcomponents.webp?t=2024-11-06T00%3A28%3A54.068Z" alt="I Heart Components" style="width: 100%; border-radius: 8px;">
+         <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">I 💜 Components</div>
+    </a>
+  </div>
+
+  <!-- Portfolio Item 6 -->
+  <div style="width: 30%; min-width: 150px; text-align: center;">
+    <a href="https://remix-template.darkviolet.ai" target="_blank" style="text-decoration: none; color: #000;">
+      <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/remixtemplatedarkviolet.webp?t=2024-11-06T00%3A29%3A23.934Z" alt="Remix Template" style="width: 100%; border-radius: 8px;">
+      <div style="margin-top: 3px; font-size: 1.1em; color: cyan;">Remix Template</div>
+    </a>
+  </div>
+
+</div>
+
+---
+
 
 ### 🚀 Technologies & Tools
 
@@ -88,8 +167,11 @@ With over two decades of industry experience, I specialize in crafting responsiv
 ![Profile Badge](https://img.shields.io/badge/Location-Atlanta%20Metropolitan%20Area-blueviolet?style=flat-square&logo=google-maps)
 
 
+<div align="center">
+
 ![Wave](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNhejU3bmJnb29mcGlpYnFzczVmeWRjd2owM3htMWlxbWZ0b3U1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif)
 
+</div>
 
 ### 🌐 **Connect with Me**
 
@@ -131,19 +213,12 @@ Let’s connect and build something extraordinary together!
 
 ---
 
-### 🌈 **Featured Projects**
-
-- [**Dark Violet Divinations**](https://divination.darkviolet.ai) – AI-powered divination app.
-- [**Chatter.DarkViolet.ai**](https://chatter.darkviolet.ai) – Role-play web app powered by AI.
-- [**I💜Components.com**](http://www.iheartcomponents.com) – Component-based web development site.
-- [**DarkViolet.ai**](https://darkviolet.ai) – Personal portfolio showcasing my work, blog, and experience.
-
----
-
 ### 🎉 Fun Facts
-- 🔭 I’m currently working on a secret AI project 👀
+- 🔭 I’m currently working with AI to completely reshape education! 👀
 - 🌱 Lifelong learner: I’m diving into generative AI and UX research!
 - 💜 Favorite color combo: Cyan, Light Violet, and Indigo 🌌
 - 🌎 I speak basic German, French, and Italian; trying to learn Russian and Mandarin!
+
+
 
 
