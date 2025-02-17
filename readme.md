@@ -6,7 +6,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
  
 <div align="center" style="margin: 10px; border-radius: 8px;">
   <a href="http://darkviolet.ai">
-    <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/landing/darkvioletlogo.webp" alt="Dark Violet" width="50%" />
+    <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/landing/darkvioletaibanner.png" alt="Dark Violet" width="50%" />
   </a>
 </div>
 
