@@ -46,7 +46,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
   <div style="display: inline-block; margin: 10px;">
 <a href="https://learnwithlumi.com" target="_blank">
   <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/lumi-forge-info.webp" alt="Learn with Lumi" width="40%" style="border-radius: 8px; margin: 10px;">
-  <div style="font-size: 1.1em; color: cyan;">Learn with Lumi</div>
+  <div style="font-size: 1.1em; color: cyan;">LumiForge.io</div>
 </a>
   </div>
 
