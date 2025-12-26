@@ -40,7 +40,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 
 </div>
 
-<div align="center" style="display: flex; gap: 10px;">
+<div align="center" style="display: flex; gap: 20px;">
 
 <!-- Portfolio Item 0 -->
   <div style="display: inline-block; margin: 10px;">
