@@ -30,6 +30,15 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 
 </div>
 
+<!-- Contribution Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EvanMarie&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<!-- Detailed Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvanMarie&theme=radical" alt="Profile Summary" />
+
+<!-- Productive Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EvanMarie&theme=radical&utcOffset=8" alt="Productive Time" />
+
 <div align="center">
 
 <!-- GitHub Activity Graph -->
