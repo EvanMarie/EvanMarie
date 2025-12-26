@@ -22,29 +22,13 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=EvanMarie&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Evan's GitHub Stats" width="49%" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanMarie&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-
-</div>
-
-<!-- Contribution Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EvanMarie&theme=radical&hide_border=true" alt="GitHub Streak" />
-
 <!-- Detailed Stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvanMarie&theme=radical" alt="Profile Summary" />
 
 <!-- Productive Time -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EvanMarie&theme=radical&utcOffset=8" alt="Productive Time" />
 
-<div align="center">
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvanMarie&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
-
-</div>
 
 <div align="center">
 
