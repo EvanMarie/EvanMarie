@@ -42,11 +42,15 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 
 <div align="center" style="display: flex; gap: 10px;">
 
-   <video
-                        src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/landing/videos/Interaction-panel.mp4"
-                        controls
-                        style="display: block;"
-                    ></video>
+<!-- Portfolio Item 0 -->
+  <div style="display: inline-block; margin: 10px;">
+<a href="https://learnwithlumi.com" target="_blank">
+  <img src="https://mhejreuxaxxodkdlfcoq.supabase.co/storage/v1/object/public/darkVioletPublic/githubprofileevan/lumi-forge-info.webp" alt="Learn with Lumi" width="40%" style="border-radius: 8px; margin: 10px;">
+  <div style="font-size: 1.1em; color: cyan;">Learn with Lumi</div>
+</a>
+  </div>
+
+<br/>
 
 <!-- Portfolio Item 0 -->
   <div style="display: inline-block; margin: 10px;">
