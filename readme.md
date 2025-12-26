@@ -14,6 +14,36 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
 
+<div align="center">
+
+## 📊 **GitHub Statistics** 📊
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=EvanMarie&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Evan's GitHub Stats" width="49%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanMarie&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvanMarie&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
+
+</div>
+
+<div align="center">
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=EvanMarie&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
   <!-- GitHub Streak -->
   
 <div style="display: inline-block; margin: 10px;">
@@ -21,6 +51,7 @@ Co-Founder at [DarkViolet.ai](https://darkviolet.ai) | AI Implementation & Integ
     <img src="https://streak-stats.demolab.com?user=EvanMarie&theme=radical&hide_border=true" alt="GitHub Streak">
   </a>
 </div>
+
 
 <br/>
 
